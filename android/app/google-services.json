@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540506299898",
+    "project_id": "lms2-85919",
+    "storage_bucket": "lms2-85919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540506299898:android:94135203f92e4f7f8f1843",
+        "android_client_info": {
+          "package_name": "com.example.lms2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540506299898-ebin0f8e4m5d6c92rvo35qq0i2p7hudk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN1mgRKqA1I8NPDY1A-EATa8TzntpHuQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540506299898-ebin0f8e4m5d6c92rvo35qq0i2p7hudk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
